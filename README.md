@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloud056&label=Profile%20views&color=0e75b6&style=flat" alt="cloud056" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cloud056" alt="cloud056" /></a> </p>
-
-- 🔭 I’m currently working on [the Case Law Explorer](https://github.com/maastrichtlawtech/case-law-explorer)
-
-- 🌱 I’m currently learning **React, FastAPI**
-
-- 📫 How to reach me **pmlewandowski@gmail.com**
+Check out my project - (image-processing-app)[www.image-processing-app.com] .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
